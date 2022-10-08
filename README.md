@@ -19,10 +19,10 @@ Le presentamos la "Herramienta de seguimiento de la felicidad del empleado" o HS
 HSFE, es una aplicación que ayuda al usuario a relizar un seguimiento del nivel de felicidad de las personas relacionadas con su empresa.
 
 Cada persona tendra las siguientes propiedades:
-    1. Nombre
-    2. Categoría (Empleado o Gerente)
-    3. Nombre Empresa
-    4. Nivel de felicidad
+    - Nombre.
+    - Categoría (Empleado o Gerente).
+    - Nombre Empresa.
+    - Nivel de felicidad.
 
 Queremos que enumere a las personas y permita buscarlas por su nombre o categoría. Los resultados deben incluir la posibilidad de ordenarlos por nivel de felicidad, categoría o empresa en orden ascendente o descendente.
 
